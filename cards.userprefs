@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="cards/cards.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Dropbox/iOS book 2/Chapters/Chapter 10/Code/PrefsV1/Version1/Droid/MainActivity.cs">
+    <Files>
+      <File FileName="cards/Program.cs" Line="32" Column="32" />
+      <File FileName="cards/Cards.cs" Line="24" Column="24" />
+      <File FileName="../../Dropbox/iOS book 2/Chapters/Chapter 10/Code/Android/droidsettings/droidsettings/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="../../Dropbox/iOS book 2/Chapters/Chapter 10/Code/PrefsV1/Version1/Droid/MainActivity.cs" Line="10" Column="10" />
+      <File FileName="../../Dropbox/iOS book 2/Chapters/Chapter 10/Code/PrefsV1/Version1/Version1/Version1.cs" Line="1" Column="1" />
+      <File FileName="../../Dropbox/iOS book 2/Chapters/Chapter 10/Code/PrefsV1/Version1/Droid/SettingsClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
